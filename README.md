@@ -2,7 +2,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jklas187)](https://solved.ac/jklas187)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISEViper&theme=dark)
 
 <!--
 **ISEViper/ISEViper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
