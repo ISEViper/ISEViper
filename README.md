@@ -6,18 +6,9 @@
   
   ## 👋 Hi, I'm ISEViper!
   
-  A passionate developer and a huge Red Bull Racing fan. 🏎️💨
+ 🏎️💨
   
   "Simply lovely!" - Max Verstappen
-  
-</div>
-
-<div align="center">
-  
-  ### 🏁 My Favorite Team & Driver
-  
-  <img src="https://img.shields.io/badge/Red%20Bull%20Racing-0600EF?style=for-the-badge&logo=Red-Bull&logoColor=white" />
-  <img src="https://img.shields.io/badge/Max%20Verstappen-1?style=for-the-badge&logoColor=white&color=FF8700" />
   
 </div>
 
@@ -43,6 +34,15 @@
   ### 📊 My GitHub Stats
   
   [![ISEViper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISEViper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<div align="center">
+  
+  ### 🏁 My Favorite Team & Driver
+  
+  <img src="https://img.shields.io/badge/Red%20Bull%20Racing-0600EF?style=for-the-badge&logo=Red-Bull&logoColor=white" />
+  <img src="https://img.shields.io/badge/Max%20Verstappen-1?style=for-the-badge&logoColor=white&color=FF8700" />
   
 </div>
 
