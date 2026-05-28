@@ -1,51 +1,79 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0600EF&height=300&section=header&text=ISEViper&fontSize=70&animation=fadeIn&fontColor=ffffff" />
-</div>
+# 🚀 비즈니스 가치와 기술적 실현 가능성을 연결하는 Technical Person입니다.
 
-<div align="center">
-  
-  ## 👋 Hi, I'm ISEViper!
-  
- 🏎️💨
-  
-  "Simply lovely!" - Max Verstappen
-  
-</div>
+단순히 아이디어를 내는 것을 넘어, 코드가 실제 서비스로 구현되는 과정을 이해하고 주도합니다. 개발자와 같은 언어로 소통하며, 현실적인 제약 사항 속에서도 혁신적인 문제 해결 방안을 찾아냅니다.
 
-<div align="center">
-  
-  ### 🛠️ Tech Stack
-   
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-</div>
+## 💡 Core Competencies
+- **Technical Communication**: 프론트엔드부터 AI 모델링까지 직접 개발에 참여한 경험을 바탕으로, 개발팀과 기획팀 사이의 정보 비대칭을 해소하고 원활한 협업을 이끕니다.
+- **Realistic Problem Solving**: 이상적인 기획에 머물지 않고, 데이터 확보의 난이도나 파이프라인의 효율성 등 기술적 제약을 고려하여 유연하게 대안을 제시하고 프로젝트를 완수합니다.
+- **Data-Driven Decision Making**: 데이터 기반 분석(MyData 로그 분석, 스포츠 전력 분석)을 통해 타겟 고객을 명확히 하고, 실질적인 비즈니스 임팩트를 창출하는 데 집중합니다.
 
-<div align="center">
+## 🛠 Tech & Tools
+- **Management & Design**: Notion, Figma
+- **Development**: IntelliJ IDEA, Flutter, Python
+- **Domain Knowledge**: FinTech, Data Analysis, 3D Reconstruction (3DGS)
 
-  ### 🔐My solved.ac Stats
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jklas187)](https://solved.ac/jklas187/)
-  
-  
-  ### 📊 My GitHub Stats
-  
-  [![ISEViper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISEViper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+---
 
-<div align="center">
-  
-  ### 🏁 My Favorite Team & Driver
-  
-  <img src="https://img.shields.io/badge/Red%20Bull%20Racing-0600EF?style=for-the-badge&logo=Red-Bull&logoColor=white" />
-  <img src="https://img.shields.io/badge/Max%20Verstappen-1?style=for-the-badge&logoColor=white&color=FF8700" />
-  
-</div>
+## 💼 Experience
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0600EF&height=200&section=footer" />
-</div>
+### 우리은행 | MyData플랫폼부 인턴
+*2025.01 - 2025.02*
+- MyData 서비스 로그 분석을 통한 UI/UX 병목 구간 파악 및 프로세스 개선 아이디어 도출
+- 타겟 고객군 데이터 추출을 통한 맞춤형 금융 상품 프로모션 기획 보조 및 플랫폼 활성화 기여
+
+### 고양 KH FC (국내 4부 리그) | 전력분석관
+*2022.03 - 2023.03*
+- 데이터 기반 경기력 분석 및 팀/상대 선수별 기술 통계 추출을 통한 전술 피드백 제공
+- 체계적인 데이터 관리 및 코칭스태프 의사결정 지원을 통해 구단의 리그 우승에 결정적 기여
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI & Client (최신 기술의 서비스화)
+새로운 기술을 탐구하고, 이를 사용자 친화적인 클라이언트 환경으로 구현하는 데 집중한 프로젝트입니다.
+
+* **MoM (Model of Me) | 3DGS 기반 AI 신체 모델링 & 측정 서비스** (2026.04 - 2026.06)
+  * **Role**: PM, Frontend, AI
+  * **Key Point**: 3D 신체 측정 서비스 기획 및 프론트엔드/AI 파이프라인 연동 주도. 초기 설계 단계에서 모델 최적화를 위해 표면 재구성 알고리즘을 과감히 제외하고, 3DGS(3D Gaussian Splatting) 기술에 리소스를 집중하여 기한 내 최적의 렌더링 성능 확보
+* **AI 기반 스마트 식물 재배기** (2026.01 - 2026.02)
+  * **Role**: AI, Frontend
+  * **Key Point**: 수경 재배 시스템을 위한 AI 모델 개발 및 모니터링 프론트엔드 구축. 초기 기획 단계에서 타겟 작물의 이미지 데이터 수집 한계를 빠르게 파악하여, 데이터 확보가 용이한 '스파트필름'으로 대상을 유연하게 변경해 AI 모델 학습 정확도 향상
+* **AR을 활용한 은행 직원 교육 서비스** (2025.01 - 2025.02)
+  * **Role**: PM
+  * **Key Point**: AR 기술을 활용한 은행 직원 실무 교육 서비스 기획 및 사용자 중심의 디자인 설계
+
+### 💳 FinTech (금융 도메인 최적화)
+복잡한 금융 데이터와 비즈니스 로직을 분석하여, 사용자에게 직관적인 서비스를 제공한 프로젝트입니다.
+
+* [**AI 기반 개인화 금융 서비스 플랫폼**](https://github.com/ISEViper/Didim) (2025.12) 🏆 *SSAFY 프로젝트 경진대회 최우수상*
+  * **Role**: Full-Stack
+  * **Key Point**: 생성형 AI와 대규모 금융 데이터를 결합한 실시간 시장 분석 및 맞춤형 자산 관리 포트폴리오를 제공하는 로보어드바이저 서비스 기획 및 풀스택 개발
+* **2030 사회초년생을 위한 IRP 운영 도움 서비스** (2025.01 - 2025.02)
+  * **Role**: PM
+  * **Key Point**: 사회초년생의 금융 이해도를 고려한 IRP 금융 서비스 기획 및 복잡한 운영 프로세스를 개선한 직관적인 UI/UX 도출
+* [**청년을 위한 올인원 금융플랫폼**](https://github.com/CSID-DGU/2025-1-SCS4031-DevDumpling-S2) (2025.03 - 2025.06)
+  * **Role**: Backend
+  * **Key Point**: 청년 대상 특화 금융 플랫폼 서비스 기획 및 핵심 백엔드 API 개발.
+* [**대학생을 위한 학식 정보 및 간편 결제 서비스**](https://github.com/ISEViper/Bapsim) (2025.08)
+  * **Role**: Backend
+  * **Key Point**: 헤이영캠퍼스 기반의 서비스 기획 및 간편 결제 시스템 백엔드 연동
+
+### 🛠️ Service Planning & Optimization (프로세스 및 서비스 개선)
+오프라인 환경과 서비스에서 발생하는 병목 현상을 분석하고, 시스템을 통해 효율을 극대화한 프로젝트입니다.
+
+* **군중 시뮬레이션을 통한 대학 축제 위기 대응 프로세스 구축** (2024.02 - 2024.05) 🏆 *캡스톤 경진대회 금상*
+  * **Role**: PM
+  * **Key Point**: FFCA 알고리즘을 활용한 군중 밀집 현상 시뮬레이션으로 병목 구간 해소 및 안전 사고 예방을 위한 최적 동선 가이드라인 기획
+* **모바일 앱을 활용한 포토부스 회전율 최적화** (2024.03 - 2024.06) 🏆 *캡스톤 경진대회 장려상*
+  * **Role**: PM
+  * **Key Point**: 대기 행렬 이론을 바탕으로 오프라인 포토부스의 병목 구간을 분석하고, 서비스 회전율을 향상시키기 위한 최적의 앱 서비스 기획
+* **박람회 부스 라인 관리 플랫폼** (2026.02 - 2026.03)
+  * **Role**: Frontend
+  * **Key Point**: 유저 및 관리자용 부스 관리 플랫폼의 프론트엔드 개발을 통해 복잡한 대기 라인의 운영 효율성 개선
+* [**졸업영화 스트리밍 및 펀딩 플랫폼**](https://github.com/CSID-DGU/2024-2-OSSProj-likemovie-02) (2024.09 - 2024.12)
+  * **Role**: Backend
+  * **Key Point**: 독립 영화 스트리밍 서비스 및 크라우드 펀딩 시스템의 백엔드 설계 및 개발
+* **'한율'이 사는 집** (2024.07)
+  * **Role**: PM
+  * **Key Point**: 뷰티 브랜드 팝업스토어 기획 기여 및 오프라인 이벤트 구성 참여
