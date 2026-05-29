@@ -9,6 +9,7 @@
 
 ## 🛠 Tech & Tools
 - **Management & Design**: Notion, Figma
+- **Database**: MySQL, Oracle, MongoDB, Hadoop, Redis, Firebase
 - **Development**: IntelliJ IDEA, Flutter, Python
 - **Domain Knowledge**: FinTech, Data Analysis, 3D Reconstruction (3DGS)
 
