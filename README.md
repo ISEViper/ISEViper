@@ -34,7 +34,7 @@
 ### 🤖 AI & Client (최신 기술의 서비스화)
 새로운 기술을 탐구하고, 이를 사용자 친화적인 클라이언트 환경으로 구현하는 데 집중한 프로젝트입니다.
 
-* **MoM (Model of Me) | 3DGS 기반 AI 신체 모델링 & 측정 서비스** (2026.04 - 2026.06) | 메타로지 🏆 *SSAFY 기업연계 프로젝트 우수상*
+* [**MoM (Model of Me) | 3DGS 기반 AI 신체 모델링 & 측정 서비스**](https://news.samsung.com/kr/ssafy-14%ea%b8%b0-%ec%88%98%eb%a3%8c-ai-%eb%aa%b0%ec%9e%85-%ea%b5%90%ec%9c%a1%ec%9c%bc%eb%a1%9c-ai-native-%ec%9d%b8%ec%9e%ac-%ec%96%91%ec%84%b1) (2026.04 - 2026.06) | 메타로지 🏆 *SSAFY 기업연계 프로젝트 우수상*
   * **Role**: PM, Frontend, AI
   * **Key Point**: 3D 신체 측정 서비스 기획 및 프론트엔드/AI 파이프라인 연동 주도. 초기 설계 단계에서 모델 최적화를 위해 표면 재구성 알고리즘을 과감히 제외하고, 3DGS(3D Gaussian Splatting) 기술에 리소스를 집중하여 기한 내 최적의 렌더링 성능 확보
 * [**AI 기반 스마트 식물 재배기**](https://github.com/ISEViper/ssukssuk) (2026.01 - 2026.02)
